@@ -17,7 +17,3 @@ Criar uma página web responsiva que apresenta um cordel (poema popular brasilei
 - `style.css` → Arquivo de estilos  
 - `imagens/` → Pasta com as imagens de fundo utilizadas no projeto  
 
-## 🚀 Como visualizar
-1. Baixe ou clone este repositório:  
-   ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
