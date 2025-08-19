@@ -1,4 +1,4 @@
-# 📜 Projeto Cordel - Curso em Vídeo
+## 📜 Projeto Cordel - Curso em Vídeo
 
 Este repositório contém o **Projeto Cordel**, desenvolvido durante as aulas do [Curso em Vídeo - HTML e CSS (Módulo 3)](https://www.cursoemvideo.com/curso/html5-css3-modulo3/), ministrado pelo professor Gustavo Guanabara.
 
